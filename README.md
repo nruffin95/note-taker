@@ -3,7 +3,7 @@
 
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-  ## https://github.com/nruffin95/Note Taker
+  ## https://github.com/nruffin95/Note-taker
 
   ## Description
 
